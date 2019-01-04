@@ -1,0 +1,29 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "publii hosted on github",
+    "description": "",
+    "home_page_url": "https://toapayohlady.github.io/publii-to-github",
+    "feed_url": "https://toapayohlady.github.io/publii-to-github/feed.json",
+    "user_comment": "",
+    "icon": "https://toapayohlady.github.io/publii-to-github/media/website/04.jpg",
+    "author": {
+        "name": "aa"
+    },
+    "items": [
+        {
+            "id": "https://toapayohlady.github.io/publii-to-github/host-publii-on-github-and-connect-to-netlify.html",
+            "url": "https://toapayohlady.github.io/publii-to-github/host-publii-on-github-and-connect-to-netlify.html",
+            "title": "Host Publii on Github and connect to Netlify",
+            "summary": "lets host on github and transfer to netlify",
+            "content_html": "lets host on github and transfer to netlify",
+            "image": "https://toapayohlady.github.io/publii-to-github/media/posts/1/",
+            "author": {
+                "name": "aa"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-01-05T01:53:52+08:00",
+            "date_modified": "2019-01-05T01:53:52+08:00"
+        }
+    ]
+}
